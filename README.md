@@ -2,6 +2,21 @@
 
 This is a hello world app that is written in [Node.js](https://nodejs.org/) using [Express](https://expressjs.com/) framework, packaged using [Docker](https://www.docker.com/).
 
+<br />
+
+## ✨ Quick Start in `Docker`
+
+@Todo - the minimal set up to start the project. Something like:
+
+```bash
+$ git clone repo
+$ docker-compose up --build
+```
+
+At this point, the app runs at `localhost:9999`
+
+<br />
+
 ## Creating an Express App
 
 ### Installing Node.js
